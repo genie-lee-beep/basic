@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "코딩하는 교육공학자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "코딩하는 교육공학자"
@@ -97,12 +97,12 @@ author:
   name             : "Genie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Fullestack Educator"
-  location         : "Somewhere"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:jieunand@hanmail.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
