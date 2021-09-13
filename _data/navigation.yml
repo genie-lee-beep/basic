@@ -2,11 +2,11 @@
 main:
   - title: "프로젝트"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "카테고리"
+  - title: "Python_Basic"
     url: /categories/
-  - title: "About"
+  - title: "Machine Learning"
     url: /about/
-  - title: "Blog"
-    url: /blog/
+  - title: "Crawling"
+    url: https://genie-lee-beep.github.io/Crawling/
   # - title: "Sitemap"
   #   url: /sitemap/
